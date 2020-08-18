@@ -1,0 +1,8 @@
+.footer {
+  padding: 20px;
+  margin: 67.5px 0;
+
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+}
